@@ -1,0 +1,74 @@
+[
+  {
+    "password": "P@ssword123",
+    "role": "Customer",
+    "name": "Kattie Lang",
+    "nid": "978126533",
+    "phone_number": "01502199022",
+    "email": "cammy.bednar@gmail.com"
+  },
+  {
+    "password": "P@ssword123",
+    "role": "Customer",
+    "name": "Efrain Abshire",
+    "nid": "715220576",
+    "phone_number": "01502424001",
+    "email": "judson.williamson@gmail.com"
+  },
+  {
+    "password": "P@ssword123",
+    "role": "Agent",
+    "name": "Mr. Many Langosh",
+    "nid": "872454413",
+    "phone_number": "01502516750",
+    "email": "jaime.altenwerth@hotmail.com"
+  },
+  {
+    "password": "P@ssword123",
+    "role": "Customer",
+    "name": "Thanh Jaskolski PhD",
+    "nid": "337971049",
+    "phone_number": "01502455100",
+    "email": "shonda.lemke@yahoo.com"
+  },
+  {
+    "password": "P@ssword123",
+    "role": "Customer",
+    "name": "Virgil Ziemann",
+    "nid": "411126736",
+    "phone_number": "01502311914",
+    "email": "darron.daniel@hotmail.com"
+  },
+  {
+    "password": "P@ssword123",
+    "role": "Agent",
+    "name": "Isidro Kreiger",
+    "nid": "335146699",
+    "phone_number": "01502509765",
+    "email": "mariella.beahan@yahoo.com"
+  },
+  {
+    "password": "P@ssword123",
+    "role": "Customer",
+    "name": "Duncan Mante",
+    "nid": "589886285",
+    "phone_number": "01502866289",
+    "email": "nobuko.koss@hotmail.com"
+  },
+  {
+    "password": "P@ssword123",
+    "role": "Customer",
+    "name": "Dexter Langworth",
+    "nid": "230053874",
+    "phone_number": "01502955140",
+    "email": "brooks.langworth@hotmail.com"
+  },
+  {
+    "password": "P@ssword123",
+    "role": "Agent",
+    "name": "Zack Borer",
+    "nid": "718895727",
+    "phone_number": "01502608818",
+    "email": "sherly.lakin@hotmail.com"
+  }
+]
