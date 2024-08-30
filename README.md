@@ -1,6 +1,6 @@
 # Project Title: API Automation of a FinTech app, Dmoney 
 
-### Project Summary: In this project, a flow has been created where Admin can login using valid credentials and perform several CRUD operations for the users. For example, the Admin can create Agent and Customer roles. Later, Agents can deposit money which they got deposited from SYSTEM to Customers. Again, the Customers can withdraw or send money to the other customers or make payments to Merchants. Finally, all the users can check their account balance or statements as well.
+### Project Summary: In this API Automation using Rest Assured project, a flow has been created where Admin can login using valid credentials and perform several CRUD operations for the users. For example, the Admin can create Agent and Customer roles. Later, Agents can deposit money which they got deposited from SYSTEM to Customers. Again, the Customers can withdraw or send money to the other customers or make payments to Merchants. Finally, all the users can check their account balance or statements as well.
 
 ## Prerequisites  
 * JDK 11
