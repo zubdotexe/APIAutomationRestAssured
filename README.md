@@ -1,6 +1,6 @@
-# Project Title: Automation of OrangeHRM Demo Using TestNG 
+# Project Title: API Automation of a FinTech app, Dmoney 
 
-### Project Summary: OrangeHRM is a Human resource management system that has been automated in this project. The tests for Login module have been automated for both admin and employees created by admin. Then, the employee creation process by admin has been automated and tested by searching newly created employees by their names and employee IDs. Lastly, the Employee module has been tested by automating the setting of gender and blood group of employees through their profiles. 
+### Project Summary: In this project, a flow has been created where Admin can login using valid credentials and perform several CRUD operations for the users. For example, the Admin can create Agent and Customer roles. Later, Agents can deposit money which they got deposited from SYSTEM to Customers. Again, the Customers can withdraw or send money to the other customers or make payments to Merchants. Finally, all the users can check their account balance or statements as well.
 
 ## Prerequisites  
 * JDK 11
