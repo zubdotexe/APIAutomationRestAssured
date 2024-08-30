@@ -43,8 +43,3 @@ Run the following command in the terminal inside the project directory:
 <br>
 <br>
 ![rest_allure_behavior](https://github.com/user-attachments/assets/046d6bc7-557d-48c8-a90e-cc35324c28ce)
-<br>
-<br>
-### Test Cases
-Please click the link to view the test cases:  
-https://docs.google.com/spreadsheets/d/11Wnky-CMHicVizqBDMaNdL6fwkhhp5focviEeWb6k28/edit?usp=sharing  
